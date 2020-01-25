@@ -19,6 +19,6 @@ class Product
   end
 
   def url
-    url
+    @url
   end
 end
